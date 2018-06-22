@@ -1,2 +1,3 @@
 # Metacritic-Scraper-
-Script to scrape data regarding game reviews from Metacritic.com - Written using Node.js
+Script to scrape data regarding game reviews from Metacritic.com - Written using Node.js 
+Stored in MongoDB Database
